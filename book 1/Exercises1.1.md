@@ -9,9 +9,9 @@ b <- c
 c <- d
 d <- a
 
-3: -----------
+2: -----------
 
-3: [20] --> 
+3: [20] -->  
 Change algorithm E (for sake of efficiency) so that all trivial replacement operands such as "m <- n" are avoided. White
 this new algorithm in the style of Algorithm E, and call it Algorithm F.
 
